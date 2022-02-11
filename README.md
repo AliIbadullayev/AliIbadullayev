@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliIbadullayev
 - 👀 I’m interested in 🤔 (Maybe something related to Java, server application, something with low-level programming)
-- 🌱 I’m currently learning for web technologies (Java EE + Angular)
+- 🌱 I’m currently learning for Agorithms and Data Structures; Basics of Software Engineering; Machine Learning; Computational Mathematics
 - 📫 How to reach me => [vk](https://vk.com/ali200257)
 
 <!---
