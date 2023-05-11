@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=AliIbadullayev&style=flat-square)
 - 👋 Hi, I’m @AliIbadullayev
+- 👨‍💻 I’m currently working as a Software Engineer in ООО "ПОЛЕСЬЕ"
 - 👀 I’m interested in developing reliable web applications and system design.
 - 🌱 I’m currently learning for Distributed storage systems, Business logic of software systems, Mobile development, Testing
 Software, Computer networks
