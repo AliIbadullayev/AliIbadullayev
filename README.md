@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=AliIbadullayev&style=flat-square)
 - 👋 Hi, I’m @AliIbadullayev
-- 👨‍💻 I am currently working part-time as a software engineer at Polesie LLC.
 - 👀 I’m interested in developing reliable web applications and system design.
 - 🌱 I’m currently learning for Distributed storage systems, Business logic of software systems, Mobile development, Testing
 Software, Computer networks
